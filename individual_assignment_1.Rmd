@@ -79,13 +79,13 @@ In [this repo](https://github.ubc.ca/MDS-2022-23/DSCI_522_dsci-workflows_student
 
 Copy the `demo.py` script into your `docopt_demo` repo, and then edit it to add a new positional argument that is optional. Commit this change and push it to your `docopt_demo` repository. Paste the URL to this commit below:
 
-> Your answer here
+> [commit link](https://github.com/carolinetang77/docopt_demo/commit/ade5434e9e63760479832229dee5d4793428aa18)
 
 ### Exercise 9
 
 Modify the `demo.py` script further so that the print statements happen inside a main function. Commit this change and push it to your `docopt_demo` repository. Paste the URL to this commit below:
 
-> Your answer here
+> [commit link](https://github.com/carolinetang77/docopt_demo/commit/1fd7f4f4be0237093f525a09148e969a4e58dbaa)
 
 ### Exercise 10
 
@@ -93,4 +93,4 @@ Create a release in your `docopt_demo` repo called `0.1.0`. Paste the URL to thi
 
 \*Hint: See the [creating a release docs](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository#creating-a-release) to help complete this exercise.
 
-> Your answer here
+> [release link](https://github.com/carolinetang77/docopt_demo/releases/tag/v0.1.0)
