@@ -49,7 +49,7 @@ Run the `demo.R` script and find at least 3 different ways to break it by changi
 
 > 1.  Not including a value for `arg1` or `arg2`
 > 2.  Setting a value for `arg1` that starts with a dash
-> 3.  Setting the value of any argument to a space
+> 3.  Including a space in the value of any argument
 
 ### Exercise 5
 
@@ -57,7 +57,7 @@ Run the `demo.R` script and find at least 3 different ways to break it by changi
 
 Copy the `demo.R` script into your `docopt_demo` repo, and then edit it to add a new positional argument that is optional. Commit this change and push it to your `docopt_demo` repository. Paste the URL to this commit below:
 
-> Your answer here
+> [commit link](https://github.com/carolinetang77/docopt_demo/commit/0c9ce0ea78dc577785ea7de49a1c9c62a5301b53)
 
 ### Exercise 6
 
@@ -65,9 +65,7 @@ Copy the `demo.R` script into your `docopt_demo` repo, and then edit it to add a
 
 Modify the `demo.R` script further so that the print statements happen inside a main function. Commit this change and push it to your `docopt_demo` repository. Paste the URL to this commit below:
 
-> Your answer here
-
-### Exercise 7
+> [commit link](https://github.com/carolinetang77/docopt_demo/commit/0860b67bea37fd5384186bdb2f5db99bb1d2cfaa)
 
 **What does `docopt` return in Python?**
 
