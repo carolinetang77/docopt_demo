@@ -71,7 +71,7 @@ Modify the `demo.R` script further so that the print statements happen inside a 
 
 In [this repo](https://github.ubc.ca/MDS-2022-23/DSCI_522_dsci-workflows_students), in the `src` directory, you will find a script named `demo.py`. Run the `demo.py` script giving it appropriate arguments to see what the `docopt` function in Python returns. Try setting and not setting a value for `arg3`. How does this differ from what `docopt` returns in R? Describe what you observed below.
 
-> Your answer here
+> In python, docopt returns a dictionary instead. When no value is specified for `arg3`, the value returned is `None`.
 
 ### Exercise 8
 
