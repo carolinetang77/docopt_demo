@@ -39,7 +39,7 @@ For options, you need to include the `--` in the command line call, for example:
 
     Rscript src/my_script something --anoption=something more
 
-> Your answer here
+> In both cases, the docopt function returns a list of 6 values. The first 3 values are named as in the usage, with dashes for `arg2` and `arg3`, while the last 3 are named as just the argument names. When no value is set for `arg3`, its value is set to null.
 
 ### Exercise 4
 
@@ -47,9 +47,9 @@ For options, you need to include the `--` in the command line call, for example:
 
 Run the `demo.R` script and find at least 3 different ways to break it by changing the values or order of the command line arguments at the command line (do not modify the script). Document how you did this below.
 
-> 1.  Your answer here
-> 2.  Your answer here
-> 3.  Your answer here
+> 1.  Not including a value for `arg1` or `arg2`
+> 2.  Setting a value for `arg1` that starts with a dash
+> 3.  Setting the value of any argument to a space
 
 ### Exercise 5
 
